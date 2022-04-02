@@ -1,0 +1,5 @@
+Strawberry Cake (slice):8.00
+Chocolate Cake (Slice):8.00
+Oreo Cheese Cake (Slice):8.00
+Strawberry Waffle:8.00
+Chocolate Waffle:8.00
